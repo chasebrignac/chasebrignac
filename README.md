@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chasebrignac
-- 👀 I’m interested in AI and Robotics
-- 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on AI projects
+- 👀 I’m a DevOps Engineer who understands AI
+- 🌱 I’m currently learning every day
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me on Twitter @chasebrignac
 
 <!---
